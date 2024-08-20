@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8E2CF&height=100&section=header&fontSize=90)
 
-👋 Hi there I'm diving deep into NLP with the goal of becoming an expert. 
+👋 Hi there, I'm diving deep into NLP with the goal of becoming an expert. 
 <br>I love collaborating with others and am always eager to **support my peers.**
 <br>👀 I'm interested in freedom, jazz, the gym, piano, challenges, happiness, and people. 
 <br>:smiley: **Feel free to talk.** Let's build something amazing together!
