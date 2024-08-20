@@ -11,9 +11,10 @@
 <br>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 <br>
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <br>
@@ -24,7 +25,7 @@
 
 <br>
 SK telecom Manager, 포털 운영/콘텐츠 기획/로그 설계
-<br>의학신문 취재기자, 보건의료계 취재 및 기사 작성
+<br>의학신문 의학전문기자, 보건의료계 취재 및 기사 작성
 <br>한국경제신문 경제교육연구소, 마케팅 전략기획/서포터즈 론칭
 <br>
 <br>
