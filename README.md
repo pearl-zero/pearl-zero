@@ -29,6 +29,6 @@ SK telecom Manager, 포털 운영/콘텐츠 기획/로그 설계
 <br>
 <br>
 
-📄 [Check out my paper on AI and Muti-omics](https://www.preprints.org/manuscript/202408.0350/v1)
+📄 [Check out my paper on AI technology and Muti-omics](https://www.preprints.org/manuscript/202408.0350/v1)
 <br>
 Currently under peer review.
