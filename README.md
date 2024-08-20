@@ -21,7 +21,13 @@
 
 <br>
 :books: My Career Path
+
 <br>
 SK telecom Manager, 포털 운영/콘텐츠 기획/로그 설계
 <br>의학신문 취재기자, 보건의료계 취재 및 기사 작성
 <br>한국경제신문 경제교육연구소, 마케팅 전략기획/서포터즈 론칭
+<br>
+<br>
+📄 Check out my paper on AI and Muti-omics
+<https://www.preprints.org/manuscript/202408.0350/v1>
+
