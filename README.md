@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=F8E2CF&height=100&section=header&fontSize=90)
 
 👋 Hi there I'm diving deep into NLP with the goal of becoming an expert. 
 <br>I love collaborating with others and am always eager to **support my peers.**
