@@ -4,7 +4,6 @@
 <br>I love collaborating with others and am always eager to **support my peers.**
 <br>👀 I'm interested in freedom, jazz, the gym, piano, challenges, happiness, and people. 
 <br>:smiley: **Feel free to talk.** Let's build something amazing together!
-<br>:house: <a href="https://blog.naver.com/juyeong_data"><img src="https://img.shields.io/badge/My blog-000000F?style=flat-square&logo=blog&logoColor=white"/>
 
 <br>
 :pencil2: What I learn is
