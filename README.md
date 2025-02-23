@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8E2CF&height=100&section=header&fontSize=90)
 
-👋 Hi there, I'm diving deep into **NLP**, aiming to master it.
-<br>I love collaborating with others and am always eager to **support my peers.**
-<br>👀 I'm always people-first, and I'm passionate about freedom, yoga, musicals, piano, challenges.
-<br>:smiley: **Feel free to connect.** Let's build something amazing together!
+👋 **Hi there!** I'm into **NLP**, always learning and growing. I love teaming up and **supporting peers**.  
+👀 **People first, always!** I'm passionate about freedom, yoga, musicals, piano, and challenges.  
+😃 **Let’s connect and create something amazing!**
 
 <br>
 :pencil2: What I learn is
