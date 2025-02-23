@@ -2,8 +2,8 @@
 
 👋 Hi there, I'm diving deep into **NLP** with the goal of becoming an expert. 
 <br>I love collaborating with others and am always eager to **support my peers.**
-<br>👀 I'm interested in freedom, jazz, yoga, piano, challenges, happiness, and people. 
-<br>:smiley: **Feel free to talk.** Let's build something amazing together!
+<br>👀 I'm always people-first, and I'm passionate about freedom, yoga, musicals, piano, challenges.
+<br>:smiley: **Feel free to connect.** Let's build something amazing together!
 
 <br>
 :pencil2: What I learn is
