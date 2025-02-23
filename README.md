@@ -2,7 +2,7 @@
 
 👋 **Hi there!** I'm into **NLP**, daily learning and growing. I love teaming up and **supporting peers**.  
 👀 **People first, always!** Passionate about yoga, musicals, piano, happiness, and challenges.
-😃 **Let’s connect and create something amazing!**
+<br>😃 **Let’s connect and create something amazing!**
 
 <br>
 :pencil2: What I learn is
