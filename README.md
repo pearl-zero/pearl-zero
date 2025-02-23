@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8E2CF&height=100&section=header&fontSize=90)
 
-👋 **Hi there,** I'm into **NLP**, daily learning and growing. I love teaming up and **supporting peers**.  
-👀 **People first, always!** Enjoy sharing moments through yoga, musicals, piano, and challenges.
-<br>😃 **Let’s connect and create something amazing.**
+👋 **Hi there,** I'm into **NLP**, daily learning and growing. I love teaming up and **supporting peers**  
+👀 **People first, always!** Enjoy sharing moments through yoga, musicals, piano, and challenges
+<br>😃 **Let’s connect and create something amazing**
 
 <br>
 :pencil2: What I learn is
@@ -19,6 +19,6 @@
 
 <br>
 
-📄 [Check out my paper on AI technology and Muti-omics](https://www.preprints.org/manuscript/202408.0350/v1) (➜ Currently under peer review.)
+📄 [Check out my paper on AI technology and Muti-omics](https://www.preprints.org/manuscript/202408.0350/v1) (➜ Currently under peer review)
 <br>
 🏆 2025 Top 3 in the Golden Boost Award at Upstage AI Lab
