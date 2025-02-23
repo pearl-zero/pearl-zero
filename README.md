@@ -19,9 +19,6 @@
 
 <br>
 
-📄 [Check out my paper on AI technology and Muti-omics](https://www.preprints.org/manuscript/202408.0350/v1)
-<br>
-Currently under peer review.
-
+📄 [Check out my paper on AI technology and Muti-omics](https://www.preprints.org/manuscript/202408.0350/v1) (➜ Currently under peer review.)
 <br>
 🏆 2025 Top 3 in the Golden Boost Award at Upstage AI Lab.
