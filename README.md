@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8E2CF&height=100&section=header&fontSize=90)
 
-👋 **Hi there!** I'm into **NLP**, always learning and growing. I love teaming up and **supporting peers**.  
+👋 **Hi there!** I'm into **NLP**, daily learning and growing. I love teaming up and **supporting peers**.  
 👀 **People first, always!** I'm passionate about freedom, yoga, musicals, piano, and challenges.  
 😃 **Let’s connect and create something amazing!**
 
