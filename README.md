@@ -3,10 +3,9 @@
 👋 **Hi there,** I'm into **NLP**, daily learning and growing
 <br>✨ I love teaming up and **supporting peers**
 <br>👀 **People first, always!** Enjoy sharing moments through yoga, musicals, piano, and challenges
-<br>😃 **Let’s connect and create something amazing**
+<br>😃 Let’s connect and create something amazing
 
-<br>
-:pencil2: What I learn is
+<br>:pencil2: **What I learn is**
 <br>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
