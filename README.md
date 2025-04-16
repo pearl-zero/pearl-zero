@@ -22,3 +22,8 @@
 📄 [Check out my paper on AI technology and Muti-omics](https://www.preprints.org/manuscript/202408.0350/v1) (➜ Currently under peer review)
 <br>
 🏆 2025 Top 3 in the Golden Boost Award at Upstage AI Lab
+
+<br>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pearlzero21)](https://solved.ac/pearlzero21)
+
