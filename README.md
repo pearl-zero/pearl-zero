@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8E2CF&height=100&section=header&fontSize=90)
 
-👋 **Hi there,** I'm into **data engineering**, daily learning and growing
+👋 **Hi there,** I'm into **data anaylsis and engineering**, daily learning and growing
 <br>✨ I love teaming up and **supporting peers**
 <br>👀 **People first, always!** Enjoy sharing moments through yoga, dance, piano, and challenges
 <br>😃 Let’s connect and create something amazing
