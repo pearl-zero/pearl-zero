@@ -28,5 +28,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=pearlzero21)](https://solved.ac/pearlzero21)
 <br>
 
-![Programmers Badge](https://raw.githubusercontent.com/{pearl-zero}/Programmers_Badge_Generator/main/result/result.svg)
+![Programmers Badge](https://raw.githubusercontent.com/{pearl-zero}/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1)
+
 
