@@ -24,7 +24,7 @@
 <br>
 👩‍🎓 Master in Science (Computer Science) - The University of St Andrews (UK)
 <br>   
-&nbsp;&nbsp; Bachelor in Science - Sookmyung Women's University (Korea)
+&nbsp;&nbsp;&nbsp; Bachelor in Science - Sookmyung Women's University (Korea)
 <br>
 💻​ Previously @ Coupang, SK Telecom, Medical News
 <br>
