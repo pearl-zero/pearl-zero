@@ -23,6 +23,7 @@
 
 <br>
 👩‍🎓 Master in Science (Computer Science) - The University of St Andrews (UK)
+<br>   
    Bachelor in Science - Sookmyung Women's University (Korea)
 <br>
 🏆 2025 Top 3 in the Golden Boost Award at Upstage AI Lab
