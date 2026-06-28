@@ -24,12 +24,13 @@
 <br>
 👩‍🎓 Master in Science (Computer Science) - The University of St Andrews (UK)
 <br>   
-   Bachelor in Science - Sookmyung Women's University (Korea)
+&nbsp; Bachelor in Science - Sookmyung Women's University (Korea)
 <br>
-💻​ Experience: Coupang · SK Telecom · Medical New
+💻​ Previously @ Coupang, SK Telecom, Medical News
 <br>
 🏆 2025 Top 3 in the Golden Boost Award at Upstage AI Lab
 
+<br>
 <br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=pearlzero21)](https://solved.ac/pearlzero21)
