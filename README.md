@@ -26,6 +26,8 @@
 <br>   
    Bachelor in Science - Sookmyung Women's University (Korea)
 <br>
+💻​ Experience: Coupang · SK Telecom · Medical New
+<br>
 🏆 2025 Top 3 in the Golden Boost Award at Upstage AI Lab
 
 <br>
